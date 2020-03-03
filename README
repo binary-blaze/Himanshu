@@ -1,6 +1,6 @@
 **This is c++ code for a chess game where two players play as Player1 and Player2.**
 
-**This is a simple approach to just show the constraints of each pieces without a organised GUI 
+**This is a simple approach to just show the constraints of each pieces without an organised GUI 
 i.e. the board prints every time a player makes a move, where the player need to give the 
 column and row of the piece for who to move and where to.**
 
